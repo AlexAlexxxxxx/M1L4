@@ -1,0 +1,13 @@
+{
+    car{
+            make: "bmw";
+            model: "m5";
+    }
+    person{
+        name: "Alex";
+        age: 25;
+    }
+}
+
+['car']['make']
+['']['']
